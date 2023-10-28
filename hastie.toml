@@ -1,0 +1,13 @@
+content = "./pages"
+output = "./output"
+static = "./static"
+templates = "./templates/"
+
+[site]
+title = "Example Site"
+description = "Just another example site"
+author = "Marcus Kazmierczak"
+
+# set if site hosted at a subdirectory
+# for example: https://mkaz.github.io/hastie
+baseurl = "/hastie"
